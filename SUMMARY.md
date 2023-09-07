@@ -1,6 +1,6 @@
 # Table of contents
 
-* [↖ W3R Landing (website)](README.md)
-  * [📑 Landing Content](w3r-landing-website/landing-content.md)
-* [📃 DRAFT Content](draft-content.md)
-* [Blitberry — GitHub Pages](https://blitberry-x.github.io/blitberry.github.io/)
+* [↖ W3R Docs](README.md)
+  * [🪄 Introducing W3R](w3r-docs/introducing-w3r.md)
+* [W3R](w3r.md)
+* [W3R One](w3r-one.md)

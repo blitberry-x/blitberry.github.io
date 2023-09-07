@@ -12,6 +12,7 @@ layout:
     visible: false
 ---
 
-# ↖ W3R Landing (website)
+# ↖ W3R Docs
 
-**Table of contents**
+### **Table of contents**
+

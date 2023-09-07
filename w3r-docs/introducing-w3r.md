@@ -1,8 +1,18 @@
 ---
-description: W3R One - Landing Page Content
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# 📑 Landing Content
+# 🪄 Introducing W3R
 
 [Introducing W3R](broken-reference)
 
@@ -16,11 +26,11 @@ Own, manage, and monetize your digital footprint and assets like never before.
 
 More than a data management platform and productivity tool, Blitberry is our vision for the future of blockchain-powered digital identity, interactions, and asset governance. Leveraging the power of technology, human agency and personal data sovereignty to create a more equitable and prosperous future for all.
 
-{% code overflow="wrap" %}
-```
-W3R - Blockchain Network Platform and Marketplace
-```
-{% endcode %}
+{% content-ref url="../w3r.md" %}
+[w3r.md](../w3r.md)
+{% endcontent-ref %}
+
+### W3R - Blockchain Network Platform and Marketplace
 
 #### Explore, connect, and broker personal data, assets, and more.
 
@@ -28,11 +38,11 @@ Our public blockchain network is a source for power\
 and support, offered through our super platform. Serving as a launchpad and providing\
 the tools and resources to facilitate your empowerment and success.
 
-{% code overflow="wrap" %}
-```
-W3R One - Private Blockchain Ecosystem and Life Management Software
-```
-{% endcode %}
+{% content-ref url="../w3r-one.md" %}
+[w3r-one.md](../w3r-one.md)
+{% endcontent-ref %}
+
+### W3R One - Private Blockchain Ecosystem and Life Management Software
 
 Organize, track, and streamline your world on your own terms.
 
