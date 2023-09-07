@@ -26,8 +26,8 @@ Own, manage, and monetize your digital footprint and assets like never before.
 
 More than a data management platform and productivity tool, Blitberry is our vision for the future of blockchain-powered digital identity, interactions, and asset governance. Leveraging the power of technology, human agency and personal data sovereignty to create a more equitable and prosperous future for all.
 
-{% content-ref url="../w3r.md" %}
-[w3r.md](../w3r.md)
+{% content-ref url="w3r.md" %}
+[w3r.md](w3r.md)
 {% endcontent-ref %}
 
 ### W3R - Blockchain Network Platform and Marketplace
@@ -38,8 +38,8 @@ Our public blockchain network is a source for power\
 and support, offered through our super platform. Serving as a launchpad and providing\
 the tools and resources to facilitate your empowerment and success.
 
-{% content-ref url="../w3r-one.md" %}
-[w3r-one.md](../w3r-one.md)
+{% content-ref url="w3r-one.md" %}
+[w3r-one.md](w3r-one.md)
 {% endcontent-ref %}
 
 ### W3R One - Private Blockchain Ecosystem and Life Management Software
